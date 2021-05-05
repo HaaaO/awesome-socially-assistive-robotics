@@ -25,23 +25,6 @@ A curated list of awesome socially assistive robotics papers and resources
 
 ## [Articles](#articles)
 
-### Summary/Survey
-
-
-### Active Learning
-
-
-### Human-Robot Collaboration
-
-
-
-### Intent Inference
-
-
-
-### Motion Planning
-
-### Optinal Teaching
 
 ## [Blogs](#blogs)
 
